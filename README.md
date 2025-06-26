@@ -18,8 +18,8 @@
 
 <div align="center">
   <a href="https://github.com/efescape">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=efescape&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=efescape&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="RResabala2015"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=efescape&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="efescape"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=efescape&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="efescape"/>
   </a>
 </div>
 <p align="center">
@@ -29,7 +29,7 @@
 </p>
 
 ------
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Diller ve Araçlar:</h3>
 <table>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
